@@ -1,4 +1,4 @@
-
+<!-- Author: Clara Ag, Date: OCT2017 -->
 {| align="center" cellspacing="1" border="1"  cellpadding="1" style="width: 200px; height: 100px; margin:0 0 30px 30px; float:right; border-collapse:collapse; border-width: 5px; background-color: #{{#switch: {{{1}}} | 3 = e39696   | 2 =  e3c896  |  1 =  bfd4a3   | 878787 }}" 
 |-
 | colspan="2" style="color:black;background-color:grey " | '''[[Data Classification]]'''
