@@ -1,0 +1,25 @@
+
+{| align="center" cellspacing="1" border="1"  cellpadding="1" style="width: 200px; height: 100px; margin:0 0 30px 30px; float:right; border-collapse:collapse; border-width: 5px; background-color: #{{#switch: {{{1}}} | 3 = e39696   | 2 =  e3c896  |  1 =  bfd4a3   | 878787 }}" 
+|-
+| colspan="2" style="color:black;background-color:grey " | '''[[Data Classification]]'''
+|-
+| colspan="2"  style="{{#switch: {{{1}}} | 3 = background-color:#e39696| 2 = background-color:#e3c896 |  1 = color:black;background-color:#2dc362 }}"|1 - Public
+
+|- 
+| colspan="2"  style="{{#switch: {{{1}}} | 3 = background-color:#e39696 | 2 = color:black;background-color:#FFC300  | 1 = background-color:#bfd4a3 }}"|2 - Intern
+
+|-
+| colspan="2"  style="{{#switch: {{{1}}} | 3 = color:black;background-color:#e71414 | 2 = background-color:#e3c896 | 1 = background-color:#bfd4a3 }}"|3 - Secret - Confidential
+
+|-
+| colspan="2" style="color:black;background-color:grey" | '''[[Information Table]]''' 
+|-
+| Version 
+| {{{version}}}
+|-
+| Control owner
+| {{{cowner}}}
+|-
+| Last review
+| {{REVISIONDAY}}/{{REVISIONMONTH}}/{{REVISIONYEAR}} By {{REVISIONUSER}}
+|}
